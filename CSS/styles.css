@@ -1,0 +1,15 @@
+nav {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}   
+.nav-list {
+    display: flex;
+    gap: 20px;
+
+}
+.nav-items {
+    font-size: 16;
+    font-family: sans-serif;
+}
