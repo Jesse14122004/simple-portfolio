@@ -13,3 +13,14 @@ nav {
     font-size: 16;
     font-family: sans-serif;
 }
+.ctas {
+    display: flex;
+    gap: 20px;
+}
+.nav-btns {
+    background-color: transparent;
+    padding: 8px 10px;
+    border-width: 1px;
+    border-color: #c4c4c4;
+    
+}
